@@ -4,4 +4,4 @@
 
 # Highlight
 
-- Use OpenWeatherMap API
+- Use www.openweathermap.org for weather API
