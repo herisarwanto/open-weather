@@ -1,3 +1,3 @@
-# open_weather_bloc_listener
+# Open Weather
 
-- Bloc + BlocListener
+- Flutter open weather with Bloc + BlocListener
